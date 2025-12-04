@@ -1,0 +1,15 @@
+{
+  "albums": [
+    { "folder": "Angry_(mood)", "title": "Angry Mood", "description": "Calm your Anger" },
+    { "folder": "Bright_(mood)", "title": "Bright Songs", "description": "Bright Songs for you" },
+    { "folder": "Chill_(mood)", "title": "Just Chill", "description": "Yes, Just Chill" },
+    { "folder": "cs", "title": "Sleep Songs", "description": "Songs for you" },
+    { "folder": "Dark_(mood)", "title": "Dark Horse", "description": "Dark Songs for you" },
+    { "folder": "Diljit", "title": "Diljit Dosanjh", "description": "Diljit Dosanjh hits" },
+    { "folder": "Funky_(mood)", "title": "Go Funky", "description": "Lets go Funky" },
+    { "folder": "karan aujla", "title": "Karan Aujla", "description": "Karan Aujla for you" },
+    { "folder": "Love_(mood)", "title": "I Love You", "description": "Love is in the air" },
+    { "folder": "ncs", "title": "NCS", "description": "Best of NCS" },
+    { "folder": "Uplifting_(mood)", "title": "Get up", "description": "You can do it!" }
+  ]
+}
